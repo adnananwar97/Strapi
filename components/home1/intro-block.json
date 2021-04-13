@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_home_intro_blocks",
+  "info": {
+    "name": "Intro block",
+    "icon": "archive",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "IntroHeading": {
+      "type": "string",
+      "maxLength": 155
+    },
+    "IntroPragraph": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_home1_images",
+  "info": {
+    "name": "Images",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "Slider": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false,
+      "pluginOptions": {}
+    }
+  }
+}
